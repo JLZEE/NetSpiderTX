@@ -9,7 +9,7 @@ import linecache
 # Tennis Express, user need to enter the search keywords to run the program
 # Program Name: Tennis Express Net Spider
 # Version: 0.2
-# Author: Gerry.Z
+# Author: Gerry.Z, ZHou.L
 # Time: 2017-02-14
 # Usage: run this code in terminal, and type in product you wants to search
 # Output: a folder contains inform of all products from search result
@@ -243,7 +243,7 @@ print u"""
 ---------------------------------------
     Name:     Net Spider TennisExpress
     Version:  0.2
-    Author:   Gerry.Z
+    Author:   Gerry.Z, Zhou.L
     Language: Python 2.7
 ---------------------------------------
 """
